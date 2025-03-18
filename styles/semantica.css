@@ -1,0 +1,31 @@
+/* Selector de etiqueta <xx> </xx> */
+body {
+    /* Color de fondo */
+    background-color: aqua;
+}
+
+header {
+    background-color: purple;
+    /* Ancho */
+    width: 100%;
+    /* Alto */
+    height: 100px;
+    /* Color texto */
+    color: white;    
+}
+
+/* Selector de clase class="" */
+.definicion {
+    /* Bordes */
+    border: 2px solid black;
+}
+
+/* Selector de identificador id="" */
+
+#listas {
+    background-color: chocolate;
+    /* Tamaño de letra */
+    font-size: xx-large;
+    /* Fuente de la letra */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
